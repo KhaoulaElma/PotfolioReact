@@ -29,7 +29,7 @@ function Projects() {
               title="KO-Education"
               description=" KO-Education is a webSite for the parents to make sure that thier children are having a healthy mentality, and training them to be good parents.
               by offering so many services for the kids and thier parents."
-              link="https://github.com/KhaoulaElma/KOEducation"
+              link="https://koeducation.netlify.app/"
             />
           </Col>
 

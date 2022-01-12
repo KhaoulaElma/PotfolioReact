@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a >Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a >Request Feature</a>
 </h3>
 
 ## TL;DR
@@ -31,14 +31,14 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+Our personal portfolio <a href="" target="_blank">K.K</a> which features some of our github projects and technical skills.<br/>
 
 This project was built using these technologies.
 
 - React.js
 - Node.js
-- Express.js
 - CSS3
+-Bootstrap
 - VsCode
 - Vercel
 
@@ -73,4 +73,4 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
