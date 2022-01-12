@@ -4,7 +4,7 @@
  
 </h2>
 <center>
- Here is the deployment link, but not comprehensive
+ Here is the deployment link, but not comprehensive (please clone it and see the project complet)
   https://distracted-ardinghelli-1c54e8.netlify.app/
   <center>
 <div align="center">
