@@ -59,7 +59,7 @@ function Projects() {
               imgPath={Meal}
               isBlog={false}
               title="Order Your Meal"
-              description="A wibe site to simplify choosing your meals, based on react.js and bootstrap and more technologies."
+              description="A website to simplify choosing your meals, based on react.js and bootstrap and more technologies."
               link="https://github.com/KhaoulaElma/OrderYourMeal"
             />
           </Col>
