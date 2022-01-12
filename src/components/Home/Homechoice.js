@@ -47,7 +47,7 @@ function Home() {
             Khaoula ELMansouri
           </Button>
 
-          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
           
           <Button  href="/HomeK" >
             Khaoula Aissaoui  &nbsp; 
