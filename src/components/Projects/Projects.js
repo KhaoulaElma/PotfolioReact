@@ -59,7 +59,7 @@ function Projects() {
               imgPath={Meal}
               isBlog={false}
               title="Order Your Meal"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="A wibe site to simplify choosing your meals, based on react.js and bootstrap and more technologies."
               link="https://github.com/KhaoulaElma/OrderYourMeal"
             />
           </Col>
